@@ -87,11 +87,11 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="💛", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🧡", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💚", callback_data="source_"),
-        InlineKeyboardButton(text="🖤", user_id="1777270311"),
-        InlineKeyboardButton(text="💙", callback_data="Main_help"),
+        InlineKeyboardButton(text="🐣", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="🤗", callback_data="mukesh_"),
+        InlineKeyboardButton(text="🤫", callback_data="source_"),
+        InlineKeyboardButton(text="🥵", user_id="6743351101"),
+        InlineKeyboardButton(text="🤓", callback_data="Main_help"),
      ],
     [
         InlineKeyboardButton(
@@ -118,7 +118,7 @@ HELP_STRINGS = f"""
 DONATE_STRING = f"""ʜᴇʏ ʙᴀʙʏ,
   ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
 
-ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ [『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](https://t.me/rajdausaardxop) ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ ➻ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/+xWcg-WBN1oBjMjk1) ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
+ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ [『Devil XD』](https://t.me/Assaulted_dark) ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ ➻ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/devilking_help) ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -386,15 +386,15 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-        InlineKeyboardButton(text="💛", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🧡", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💚", callback_data="source_"),
-        InlineKeyboardButton(text="🖤", user_id="1777270311"),
-        InlineKeyboardButton(text="💙", callback_data="Main_help"),
+        InlineKeyboardButton(text="🐣", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="🤗", callback_data="mukesh_"),
+        InlineKeyboardButton(text="🤫", callback_data="source_"),
+        InlineKeyboardButton(text="🥵", user_id="6743351101"),
+        InlineKeyboardButton(text="🤓", callback_data="Main_help"),
      ],
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/+xWcg-WBN1oBjMjk1"
+                            text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/devilking_help"
                         ),
                         InlineKeyboardButton(
                             text="ᴄᴏᴍᴍᴀɴᴅs", callback_data="Main_help"
@@ -422,26 +422,26 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-        InlineKeyboardButton(text="💛", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🧡", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💚", callback_data="source_"),
-        InlineKeyboardButton(text="🖤", user_id="1777270311"),
-        InlineKeyboardButton(text="💙", callback_data="Main_help"),
+        InlineKeyboardButton(text="🐣", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="🤗", callback_data="mukesh_"),
+        InlineKeyboardButton(text="🤫", callback_data="source_"),
+        InlineKeyboardButton(text="🥵", user_id="1777270311"),
+        InlineKeyboardButton(text="🤓", callback_data="Main_help"),
      ],
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/+xWcg-WBN1oBjMjk1"
+                            text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/devilking_help"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url="https://t.me/+GEooO-YpKXlhNjA1"
+                            text="ᴜᴩᴅᴀᴛᴇs", url="https://t.me/english_hindi_friends_chatting"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", user_id="1777270311"
+                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", user_id="6743351101"
                         ),
                         InlineKeyboardButton(
-                            text="ɢɪᴛʜᴜʙ", url="http://github.com/NOBITA-RDX"
+                            text="Devil XD", url="https://telegra.ph/file/e0773f5b9ac5f43dc8815.mp4 "
                         ),
                     ],
                     [
@@ -594,11 +594,11 @@ Yᴏᴜ ᴄᴀɴ ʜᴇʟᴘ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ 
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [ [
-        InlineKeyboardButton(text="💛", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🧡", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💚", callback_data="source_"),
-        InlineKeyboardButton(text="🖤", user_id="1777270311"),
-        InlineKeyboardButton(text="💙", callback_data="Main_help"),
+        InlineKeyboardButton(text="🐣", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="🤗", callback_data="mukesh_"),
+        InlineKeyboardButton(text="🤫", callback_data="source_"),
+        InlineKeyboardButton(text="🥵", user_id="6743351101"),
+        InlineKeyboardButton(text="🤓", callback_data="Main_help"),
      ],
                     [
                         InlineKeyboardButton(text="• ᴅᴏɴᴀᴛᴇ •", url="https://t.me/+FTpq6AVRnqMwZDRl"),InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/+xWcg-WBN1oBjMjk1")
