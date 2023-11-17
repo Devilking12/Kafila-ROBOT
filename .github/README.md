@@ -1,6 +1,6 @@
-<h1 align="center">ɴᴏʙɪᴛᴀ ʀᴅx ʀᴏʙᴏᴛ</h1>
+<h1 align="center">𝐌𝐢𝐜𝐇𝐚𝐍 ✘ 𝐌𝐚𝐧𝐚𝐆𝐞𝐦𝐞𝐧𝐓 ™</h1>
 <p align="center">
-  <img src="https://github.com/Noob-Mukesh/MukeshRobot/blob/main/MukeshRobot/resources/mukesh.jpg">
+  <img src="https://github.com/Devilking12/KafilaRobot/blob/main/MukeshRobot/resources/mukesh.jpg">
 </p>
 <p align="center">
 <a href="https://github.com/Noob-Mukesh/MukeshRobot/stargazers"><img src="https://img.shields.io/github/stars/Noob-Mukesh/MukeshRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
