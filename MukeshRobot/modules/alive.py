@@ -54,7 +54,7 @@ async def restart(client, m: Message):
         START_IMG,
         caption=f"""**ʜᴇʏ, ɪ ᴀᴍ 『[{BOT_NAME}](f"t.me/{BOT_USERNAME}")』**
    ━━━━━━━━━━━━━━━━━━━
-  » **ᴍʏ ᴏᴡɴᴇʀ :** [ᴏᴡɴᴇʀ](user_id="1777270311)
+  » **ᴍʏ ᴏᴡɴᴇʀ :** [ᴏᴡɴᴇʀ](user_id="6743351101")
   
   » **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{lver}`
   
