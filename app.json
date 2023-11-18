@@ -1,5 +1,5 @@
 {
-    "name": "ʀᴅx-ʀᴏʙᴏᴛ",
+    "name": "ㅤᎷɪᴄ֟፝ʜᴀɴ Ᏼo͢Ꭲ",
     "description": "Telegram Group Management Bot.",
     "logo": "https://graph.org/file/c4346aa958149527df3fc.jpg",
     "keywords": [
@@ -8,7 +8,7 @@
        "group",
        "manager"
     ],   
- "repository": "https://github.com/NOBITA-RDX/RDX-ROBOT",
+ "repository": "https://github.com/Devilking12/Kafila-ROBOT",
  "stack": "heroku-22",
  "addons": [
     {
