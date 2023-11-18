@@ -125,9 +125,9 @@ async def some_function(_, message):
 
 ━━━━━━━━━━━━━━━━━━━━
 ### ㅤㅤㅤㅤᴄʀᴇᴅɪᴛs 
- [ ᴍᴜᴋᴇsʜ ](https://t.me/itz_legend_coder)
+ [ Devil XD ](https://t.me/Devil_ki_masoomiyat)
 
- [ᴀɴᴏɴʏᴍᴏᴜs](https://telegram.me/anonymous_was_bot)  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Noob-Mukesh/MukeshRobot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ ❤️ </b>
+ [Devil XD](https://telegram.me/Assaulted_dark)  
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Devilking12/Kafila-Robot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ ❤️ </b>
 
 ━━━━━━━━━━━━━━━━━━━━
